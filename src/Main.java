@@ -4,7 +4,7 @@ public class Main {
         int age = 26;
         String profession = "Техник";
 
-        String phrase = " Всем привет, меня зовут " + name + " мне " + age + " я работаю " + profession;
+        String phrase = "привет, меня зовут " + name + " мне " + age + " я работаю " + profession;
         String formatString = String.format(
         System.out.println(formatString);
     }
